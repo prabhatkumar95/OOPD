@@ -1,0 +1,15 @@
+ADDU <username> <phoneno> <address>
+ADDA <username> <phoneno> <address>
+ADDG <groupname> <username>
+RESPOND <username> <groupname> <0/1>
+JOIN <groupname> <username>
+LEAVE <groupname> <username>
+DELETEG <groupname> <username>
+SENDMSG <groupname> <username> <msg>
+VIEWMSG <groupname> <username>
+REPLYMSG <groupname> <username> <msgid> <msg>
+SHAREMSG <srcgroupname> <destgroupname> <username> <msgid>
+VIEWGRP <username>
+VIEWUSER <groupname>
+VIEWREPLIES <groupname> <username> <msgid>
+

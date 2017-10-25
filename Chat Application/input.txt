@@ -1,0 +1,18 @@
+ADDA @prabhat 8130346003 New Delhi
+ADDU @yogesh 1234567890 New Delhi
+ADDU @prabhat 8130346003 New Delhi
+ADDG @group @prabhat
+ADDG @huhu @prabhat
+JOIN @group @yogesh
+RESPOND @yogesh @group 1
+SNDMSG @group @yogesh I am don
+REPLYMSG @group @prabhat 1 Yeah you are
+VIEWMSG @group @yogesh
+SHAREMSG @group @huhu @prabhat 1
+VIEWMSG @huhu @prabhat
+VIEWGRP @prabhat
+VIEWGRP @yogesh
+VIEWUSER @group
+VIEWUSER @huhu
+VIEWREPLY @group @prabhat 1
+

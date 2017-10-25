@@ -1,0 +1,13 @@
+insert prabhat kumar ml ga ai
+insert chirag khurana ml ga ac
+insert utkarsh dubey nlp ga iot
+show
+delete utkarsh dubey
+delete ramesh khurana
+show
+maximum
+extract-max
+show
+extract-max
+show
+maximum
